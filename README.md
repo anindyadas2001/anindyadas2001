@@ -4,13 +4,9 @@
   
 
 
-# <div align="center">Hi ,  I'm Anindya Das</div>
-</br>
+# Hi ,  I'm Anindya Das </br>
+### Passionate about Databases, Cloud & Automation.
 
- 
-  
-
-- Passionate about Databases, Cloud & Automation.
   
 
 <!--- Ask me about anything related to [Your area of expertise]  

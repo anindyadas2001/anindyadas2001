@@ -4,8 +4,7 @@
   
 
 
-## <div align="center">Hi ,  I'm Anindya Das</div></br>
-### <div align="left">[Fresher]</div>  
+# <div align="center">Hi ,  I'm Anindya Das</div>
 </br>
 
  

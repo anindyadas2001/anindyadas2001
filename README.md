@@ -4,8 +4,8 @@
   
 
 
-# <div align="center"> Hi ,  I'm Anindya Das </br>
-### Passionate about Databases, Cloud & Automation. </div>
+# <div align="center"> Hi ,  I'm Anindya Das  </div>
+### Passionate about Databases, Cloud & Automation. 
 
   
 

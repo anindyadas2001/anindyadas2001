@@ -2,7 +2,12 @@
 =============================
 
 ### About Me
-I am a 2024-Graduate with a B.Tech Degree in Computer Science and Engineering. I'm a passionate learner and enthusiast in AWS, Database Management, and Delivery Pipeline.
+I am a 2024-Graduate with a B.Tech Degree in Computer Science and Engineering. I'm a passionate learner and enthusiast in 
+```
+Analysing and Managing Database,
+Cloud Technologies (Primarily with AWS ), besides venturing possibilies with Azure .
+Core Automation Tools.
+```
 
 ### Currently Working On
 - 🚀 **Spring PetCare Manager**: [Check it out on GitHub](https://github.com/anindyadas2001/PetCareManager)

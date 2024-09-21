@@ -3,7 +3,7 @@
 > A learner & enthusiast in AWS, Database Management and Delivery Pipeline;
 
 ##Currently working on 
-> [Spring PetCare Manager](https://github.com/anindyadas2001/PetCareManager) and a Gen Ai research tool.
+> [Spring PetCare Manager](https://github.com/anindyadas2001/PetCareManager) and a Gen AI Searching tool.
 
 **Skills**
 ---------

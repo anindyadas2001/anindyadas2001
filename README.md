@@ -7,7 +7,7 @@
 I Graduatedn in 2024  with a B.Tech Degree in Computer Science and Engineering.
 I'm a passionate learner and enthusiast in :
 Analysing and Managing Database,
-Cloud Technologies (Primarily with AWS ),  Azure .
+Cloud Technologies (Primarily with AWS ) .
 Core Automation Tools, besides venturing possibilies with CI/CD Pipeline
 Operating systems and basics of Networking.
 ```

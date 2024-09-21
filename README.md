@@ -2,8 +2,9 @@
 =============================
 
 ### About Me
-I am a 2024-Graduate with a B.Tech Degree in Computer Science and Engineering. I'm a passionate learner and enthusiast in 
+I am a 2024-Graduate with a B.Tech Degree in Computer Science and Engineering.
 ```
+I'm a passionate learner and enthusiast in :
 Analysing and Managing Database,
 Cloud Technologies (Primarily with AWS ), besides venturing possibilies with Azure .
 Core Automation Tools.

@@ -5,8 +5,8 @@
 I am a 2024-Graduate with a B.Tech Degree in Computer Science and Engineering. I'm a passionate learner and enthusiast in AWS, Database Management, and Delivery Pipeline.
 
 ### Currently Working On
-🚀 **Spring PetCare Manager**: [Check it out on GitHub](https://github.com/anindyadas2001/PetCareManager)
-🤖 **Gen AI Searching Tool**: Stay tuned for updates!
+- 🚀 **Spring PetCare Manager**: [Check it out on GitHub](https://github.com/anindyadas2001/PetCareManager)
+- 🤖 **Gen AI Searching Tool**: Stay tuned for updates!
 
 ### Technical Skills
 -------------
